@@ -360,6 +360,14 @@ Dylan:
   extensions:
   - .dylan
 
+EAGLE:
+  type: data
+  color: "#3ebc27"
+  primary_extension: .sch
+  extensions:
+  - .sch
+  - .brd
+
 Ecere Projects:
   type: data
   group: JavaScript
